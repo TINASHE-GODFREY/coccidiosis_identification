@@ -22,7 +22,8 @@ list_of_folders=[
     "parameters.yaml",
     "requrements.txt",
     "setup.py",
-    "research/trials.ipynb"  
+    "research/trials.ipynb",
+    "tampletes/index.html" 
 
 ]
 
