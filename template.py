@@ -20,7 +20,7 @@ list_of_folders=[
     "config/config.yaml",
     "dvc.yaml",
     "parameters.yaml",
-    "requrements.txt",
+    "requirements.txt",
     "setup.py",
     "research/trials.ipynb",
     "tampletes/index.html" 
