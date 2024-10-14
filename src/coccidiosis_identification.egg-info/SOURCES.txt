@@ -7,6 +7,7 @@ src/classifier/config/configuration.py
 src/classifier/constants/__init__.py
 src/classifier/entity/__init__.py
 src/classifier/utils/__init__.py
+src/classifier/utils/common_functions.py
 src/coccidiosis_identification.egg-info/PKG-INFO
 src/coccidiosis_identification.egg-info/SOURCES.txt
 src/coccidiosis_identification.egg-info/dependency_links.txt

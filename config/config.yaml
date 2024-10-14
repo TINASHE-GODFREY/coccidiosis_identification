@@ -1,0 +1,7 @@
+artifacts_roots: artifacts
+
+data_ingestion:
+    root_dir: artifacts/data_ingestion
+    source_url: https://github.com/TINASHE-GODFREY/machine_learning_datasets/raw/refs/heads/main/chicken_images.zip
+    local_datafiles: artifacts/data_ingestion/data.zip
+    unzip_dir: artifacts/data_ingestion

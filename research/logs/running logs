@@ -1,0 +1,62 @@
+2024-09-27 15:52:47,529 - classifier - INFO - welcome tinashe
+2024-09-27 16:21:35,804 - classifier - INFO - welcome tinashe
+2024-10-01 17:57:17,556 - classifier - INFO - welcome tinashe
+2024-10-01 17:58:07,361 - classifier - INFO - welcome tinashe
+2024-10-01 18:02:45,028 - classifier - INFO - welcome tinashe
+2024-10-01 18:04:29,461 - classifier - INFO - welcome tinashe
+2024-10-01 18:30:51,888 - classifier - INFO - welcome tinashe
+2024-10-01 18:39:35,015 - classifier - INFO - welcome tinashe
+2024-10-01 18:49:45,200 - classifier - INFO - welcome tinashe
+2024-10-04 15:56:34,277 - classifier - INFO - welcome tinashe
+2024-10-04 16:05:01,914 - classifier - INFO - welcome tinashe
+2024-10-04 16:24:05,708 - classifier - INFO - welcome tinashe
+2024-10-14 14:00:30,985 - classifier - INFO - welcome tinashe
+2024-10-14 16:09:45,028 - classifier - INFO - welcome tinashe
+2024-10-14 17:08:56,685 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-14 17:08:56,729 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-14 17:25:06,364 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-14 17:25:06,380 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-14 17:25:06,394 - classifier - INFO - created a directory at: artifacts
+2024-10-14 17:25:06,409 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-14 17:27:04,557 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-14 17:27:04,562 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-14 17:27:04,569 - classifier - INFO - created a directory at: artifacts
+2024-10-14 17:27:04,574 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-14 17:55:44,480 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-14 17:55:44,522 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-14 17:55:44,526 - classifier - INFO - created a directory at: artifacts
+2024-10-14 17:55:44,531 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-14 18:01:10,762 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-14 18:01:10,778 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-14 18:01:10,784 - classifier - INFO - created a directory at: artifacts
+2024-10-14 18:01:10,799 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-14 18:02:54,877 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-14 18:02:54,879 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-14 18:02:54,895 - classifier - INFO - created a directory at: artifacts
+2024-10-14 18:02:54,900 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-14 18:03:06,904 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: E2BC:24BB1:1E5AE7:273D77:670D0F78
+Accept-Ranges: bytes
+Date: Mon, 14 Oct 2024 12:32:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21733-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1728909177.386376,VS0,VE945
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 856f57007ced8bf45a7e741b4b0658bf69a7ecd5
+Expires: Mon, 14 Oct 2024 12:37:58 GMT
+Source-Age: 1
+
+

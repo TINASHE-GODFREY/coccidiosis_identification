@@ -6,7 +6,7 @@ from classifier import logger
 import json 
 import joblib
 from ensure import ensure_annotations
-from box import Config_Box 
+from box import ConfigBox 
 from  pathlib import Path
 from typing import Any 
 import base64 
@@ -16,7 +16,7 @@ import base64
 @ensure_annotations
 
 #function to read yaml files 
-def read_yaml(path_to_yaml: Path) -> Config_Box:
+def read_yaml(path_to_yaml: Path) -> ConfigBox:
     """ reads yaml file and returns
 
     Args:
@@ -35,7 +35,7 @@ def read_yaml(path_to_yaml: Path) -> Config_Box:
        with open(path_to_yaml) as yaml_file:
            content= yaml.safe_load(yaml_file)
            logger.info(f"yaml file: {path_to_yaml} loaded succefully")
-           return Config_Box(content)
+           return ConfigBox(content)
    
 
     except BoxValueError:
@@ -67,7 +67,7 @@ def create_dirctories(path_to_directories: list, verbase=True):
 
 #function to load the json file
 @ensure_annotations
-def load_json(path: Path) -> Config_Box:
+def load_json(path: Path) -> ConfigBox:
    """load json file 
 
    Args:
@@ -80,7 +80,7 @@ def load_json(path: Path) -> Config_Box:
       content=json.read(f)
 
    logger.info(f"json file is loaded from {path}")
-   return Config_Box(content)
+   return ConfigBox(content)
 
 
 
