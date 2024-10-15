@@ -60,3 +60,36 @@ Expires: Mon, 14 Oct 2024 12:37:58 GMT
 Source-Age: 1
 
 
+2024-10-15 15:11:49,089 - classifier - INFO - welcome tinashe
+2024-10-15 15:17:47,873 - classifier - INFO - welcome tinashe
+2024-10-15 16:04:25,506 - classifier - INFO - welcome tinashe
+2024-10-15 16:20:20,734 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-15 16:20:20,760 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-15 16:20:20,766 - classifier - INFO - created a directory at: artifacts
+2024-10-15 16:20:20,771 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-15 16:20:38,576 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BDA9:1FDB29:605913:710EA4:670E48EE
+Accept-Ranges: bytes
+Date: Tue, 15 Oct 2024 10:50:23 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4736-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1728989423.523193,VS0,VE1283
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c322a0572bbc1faf6a5cbd73d036cd82783958a8
+Expires: Tue, 15 Oct 2024 10:55:23 GMT
+Source-Age: 1
+
+

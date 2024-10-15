@@ -1,3 +1,140 @@
 2024-09-25 16:21:01,841 - src.classifier - INFO - welcome tinashe
 2024-09-25 16:21:01,842 - src.classifier - INFO - welcome tinashe
 2024-10-01 16:26:33,814 - classifier - INFO - welcome tinashe
+2024-10-15 15:06:10,267 - src.classifier - INFO - welcome tinashe
+2024-10-15 15:06:10,269 - classifier - INFO - welcome tinashe
+2024-10-15 15:06:11,724 - src.classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 15:06:11,724 - src.classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    obj.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 15:09:23,784 - src.classifier - INFO - welcome tinashe
+2024-10-15 15:09:23,785 - classifier - INFO - welcome tinashe
+2024-10-15 15:09:24,223 - src.classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 15:09:24,223 - src.classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    obj.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 16:03:44,766 - src.classifier - INFO - welcome tinashe
+2024-10-15 16:03:44,769 - classifier - INFO - welcome tinashe
+2024-10-15 16:03:45,557 - src.classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 16:03:45,558 - src.classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    obj.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 16:29:34,948 - src.classifier - INFO - welcome tinashe
+2024-10-15 16:29:34,953 - classifier - INFO - welcome tinashe
+2024-10-15 16:29:35,855 - src.classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 16:29:35,855 - src.classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    obj.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 16:31:09,035 - src.classifier - INFO - welcome tinashe
+2024-10-15 16:31:09,037 - classifier - INFO - welcome tinashe
+2024-10-15 16:31:09,760 - src.classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 16:31:09,760 - src.classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    obj.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 16:32:17,995 - classifier - INFO - welcome tinashe
+2024-10-15 16:32:19,183 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-15 16:32:19,204 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-15 16:32:19,236 - classifier - INFO - created a directory at: artifacts
+2024-10-15 16:32:19,253 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-15 16:33:05,148 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A1CB:3B161A:3A5023:4B0DF9:670E4BD0
+Accept-Ranges: bytes
+Date: Tue, 15 Oct 2024 11:02:43 GMT
+Via: 1.1 varnish
+X-Served-By: cache-del21741-DEL
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1728990161.957146,VS0,VE2114
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 4a40f89fe08a4e5fcaec9f7d30b89d3f88c7acd4
+Expires: Tue, 15 Oct 2024 11:07:43 GMT
+Source-Age: 2
+
+
+2024-10-15 16:34:33,839 - src.classifier - INFO - welcome tinashe
+2024-10-15 16:34:33,841 - classifier - INFO - welcome tinashe
+2024-10-15 16:34:34,590 - src.classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 16:34:34,590 - src.classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    obj.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 16:43:03,371 - src.classifier - INFO - welcome tinashe
+2024-10-15 16:43:03,375 - classifier - INFO - welcome tinashe
+2024-10-15 16:43:04,154 - src.classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 16:43:04,154 - src.classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    data_ingestion.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 16:50:01,679 - src.classifier - INFO - welcome tinashe
+2024-10-15 16:50:01,680 - classifier - INFO - welcome tinashe
+2024-10-15 16:50:02,402 - src.classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 16:50:02,402 - src.classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    data_ingestion.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 16:52:04,230 - classifier - INFO - welcome tinashe
+2024-10-15 16:52:04,623 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 16:52:04,623 - classifier - ERROR - DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 11, in <module>
+    data_ingestion.main()
+TypeError: DataIngestionTrainingPipeline.main() missing 1 required positional argument: 'self'
+2024-10-15 17:46:09,220 - classifier - INFO - welcome tinashe
+2024-10-15 17:46:09,990 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-15 17:46:09,992 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-15 17:46:09,994 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-15 17:46:09,996 - classifier - INFO - created a directory at: artifacts
+2024-10-15 17:46:09,996 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-15 17:46:24,563 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3518:1F7AC2:618BB6:7283BF:670E5D0B
+Accept-Ranges: bytes
+Date: Tue, 15 Oct 2024 12:16:12 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4725-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1728994571.480381,VS0,VE1471
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2ff8e0a00e763c2292d85816e5a8688f0936adc2
+Expires: Tue, 15 Oct 2024 12:21:12 GMT
+Source-Age: 1
+
+
+2024-10-15 17:46:24,761 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
+
+ x======x 
