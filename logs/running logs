@@ -180,3 +180,48 @@ Source-Age: 1
 2024-10-23 14:31:55,138 - classifier - INFO - created a directory at: artifacts/prepare_base_model
 2024-10-23 14:31:57,737 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
 2024-10-23 14:32:00,526 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 15:25:01,737 - classifier - INFO - welcome tinashe
+2024-10-23 15:25:30,303 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-23 15:25:30,308 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 15:25:30,313 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 15:25:30,316 - classifier - INFO - created a directory at: artifacts
+2024-10-23 15:25:30,316 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-10-23 15:25:46,933 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: DBAC:134138:909C9B:A88BA9:6718C813
+Accept-Ranges: bytes
+Date: Wed, 23 Oct 2024 09:55:32 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4732-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1729677332.687368,VS0,VE872
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: c489a567442858c239821704e59610a77406e07e
+Expires: Wed, 23 Oct 2024 10:00:32 GMT
+Source-Age: 0
+
+
+2024-10-23 15:25:47,243 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
+
+ x======x 
+2024-10-23 15:25:47,244 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-10-23 15:25:47,249 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 15:25:47,254 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 15:25:47,255 - classifier - INFO - created a directory at: artifacts
+2024-10-23 15:25:47,257 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-10-23 15:25:50,369 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 15:25:50,835 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 15:25:52,089 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
+
+ x======x 
