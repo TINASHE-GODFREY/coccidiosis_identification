@@ -225,3 +225,35 @@ Source-Age: 0
 2024-10-23 15:25:52,089 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
 
  x======x 
+2024-10-23 17:00:32,559 - classifier - INFO - welcome tinashe
+2024-10-23 19:10:21,261 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 19:10:21,327 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 19:17:50,225 - classifier - INFO - welcome tinashe
+2024-10-23 19:18:11,402 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 19:18:11,412 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 19:30:09,167 - classifier - INFO - welcome tinashe
+2024-10-23 19:30:41,908 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 19:30:41,920 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 19:30:41,933 - classifier - INFO - created a directory at: artifacts
+2024-10-23 19:30:41,950 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-10-23 19:30:49,638 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 19:30:51,125 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 19:34:51,937 - classifier - INFO - welcome tinashe
+2024-10-23 19:35:22,455 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 19:35:22,467 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 19:44:41,094 - classifier - INFO - welcome tinashe
+2024-10-23 19:45:07,221 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 19:45:07,228 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 19:45:07,239 - classifier - INFO - created a directory at: artifacts
+2024-10-23 19:52:31,605 - classifier - INFO - welcome tinashe
+2024-10-23 19:52:54,794 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 19:52:54,809 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 19:52:54,827 - classifier - INFO - created a directory at: artifacts
+2024-10-23 19:57:41,250 - classifier - INFO - welcome tinashe
+2024-10-23 19:58:09,924 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 19:58:09,945 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 19:58:09,954 - classifier - INFO - created a directory at: artifacts
+2024-10-23 20:09:29,129 - classifier - INFO - welcome tinashe
+2024-10-23 20:09:49,370 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 20:09:49,381 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 20:09:49,391 - classifier - INFO - created a directory at: artifacts
