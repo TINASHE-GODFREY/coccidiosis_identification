@@ -148,3 +148,35 @@ Source-Age: 1
 2024-10-22 17:26:06,741 - classifier - INFO - welcome tinashe
 2024-10-23 13:23:54,847 - classifier - INFO - welcome tinashe
 2024-10-23 13:35:47,294 - classifier - INFO - welcome tinashe
+2024-10-23 14:01:12,273 - classifier - INFO - welcome tinashe
+2024-10-23 14:01:49,169 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 14:05:12,866 - classifier - INFO - welcome tinashe
+2024-10-23 14:05:28,243 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 14:05:28,264 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 14:05:28,276 - classifier - INFO - created a directory at: artifacts
+2024-10-23 14:05:28,295 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-10-23 14:06:09,937 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 14:11:02,065 - classifier - INFO - welcome tinashe
+2024-10-23 14:11:16,970 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 14:11:17,014 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 14:11:17,025 - classifier - INFO - created a directory at: artifacts
+2024-10-23 14:11:17,035 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-10-23 14:19:51,978 - classifier - INFO - welcome tinashe
+2024-10-23 14:20:07,991 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 14:20:08,013 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 14:20:08,022 - classifier - INFO - created a directory at: artifacts
+2024-10-23 14:20:08,024 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-10-23 14:20:10,066 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 14:27:22,516 - classifier - INFO - welcome tinashe
+2024-10-23 14:27:39,547 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 14:27:39,563 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 14:27:39,570 - classifier - INFO - created a directory at: artifacts
+2024-10-23 14:27:39,574 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-10-23 14:27:41,052 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 14:31:38,606 - classifier - INFO - welcome tinashe
+2024-10-23 14:31:55,080 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-10-23 14:31:55,105 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-10-23 14:31:55,117 - classifier - INFO - created a directory at: artifacts
+2024-10-23 14:31:55,138 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-10-23 14:31:57,737 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2024-10-23 14:32:00,526 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
