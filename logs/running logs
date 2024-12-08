@@ -293,3 +293,4 @@ Source-Age: 0
 2024-12-05 04:27:15,520 - classifier - INFO - created a directory at: artifacts
 2024-12-05 04:27:15,544 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
 2024-12-05 04:27:15,563 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-06 17:45:32,038 - classifier - INFO - welcome tinashe
