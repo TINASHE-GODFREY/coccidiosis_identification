@@ -294,3 +294,115 @@ Source-Age: 0
 2024-12-05 04:27:15,544 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
 2024-12-05 04:27:15,563 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
 2024-12-06 17:45:32,038 - classifier - INFO - welcome tinashe
+2024-12-09 04:27:54,722 - classifier - INFO - welcome tinashe
+2024-12-09 04:41:06,528 - classifier - INFO - welcome tinashe
+2024-12-09 04:41:24,743 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 04:41:24,755 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 04:48:11,545 - classifier - INFO - welcome tinashe
+2024-12-09 04:48:32,007 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 04:48:32,041 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 04:52:47,265 - classifier - INFO - welcome tinashe
+2024-12-09 04:52:59,885 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 04:52:59,899 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 04:52:59,909 - classifier - INFO - created a directory at: artifacts
+2024-12-09 04:52:59,922 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 04:52:59,929 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 04:53:54,179 - classifier - INFO - welcome tinashe
+2024-12-09 04:54:03,543 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 04:54:03,549 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 04:56:25,871 - classifier - INFO - welcome tinashe
+2024-12-09 04:56:34,469 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 04:56:34,496 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 04:57:12,516 - classifier - INFO - welcome tinashe
+2024-12-09 04:57:18,270 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 04:57:18,280 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 04:57:18,292 - classifier - INFO - created a directory at: artifacts
+2024-12-09 04:57:18,304 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 04:57:18,310 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 04:59:09,240 - classifier - INFO - welcome tinashe
+2024-12-09 04:59:16,408 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 04:59:16,428 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 05:11:56,524 - classifier - INFO - welcome tinashe
+2024-12-09 05:12:10,671 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 05:12:10,681 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 05:12:10,690 - classifier - INFO - created a directory at: artifacts
+2024-12-09 05:12:10,698 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 05:12:10,702 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 05:12:10,714 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 05:14:01,575 - classifier - INFO - welcome tinashe
+2024-12-09 05:14:12,490 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 05:14:12,494 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 05:14:12,496 - classifier - INFO - created a directory at: artifacts
+2024-12-09 05:14:12,498 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 05:14:12,500 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 05:14:12,503 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 05:17:33,818 - classifier - INFO - welcome tinashe
+2024-12-09 05:17:43,117 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 05:17:43,133 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 05:17:43,148 - classifier - INFO - created a directory at: artifacts
+2024-12-09 05:17:43,155 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 05:17:43,162 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 05:17:43,172 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 15:58:31,674 - classifier - INFO - welcome tinashe
+2024-12-09 15:58:51,396 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 15:58:51,407 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 15:58:51,414 - classifier - INFO - created a directory at: artifacts
+2024-12-09 15:58:51,417 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 15:58:51,420 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 15:58:51,425 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 16:05:48,370 - classifier - INFO - welcome tinashe
+2024-12-09 16:06:06,500 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 16:06:06,506 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 16:06:06,511 - classifier - INFO - created a directory at: artifacts
+2024-12-09 16:06:06,517 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 16:06:06,523 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 16:06:06,535 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 16:22:32,610 - classifier - INFO - welcome tinashe
+2024-12-09 16:22:57,634 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 16:22:57,702 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 16:22:57,719 - classifier - INFO - created a directory at: artifacts
+2024-12-09 16:22:57,787 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 16:22:57,810 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 16:22:57,835 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 16:33:21,202 - classifier - INFO - welcome tinashe
+2024-12-09 16:33:46,513 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 16:33:46,544 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 16:33:46,566 - classifier - INFO - created a directory at: artifacts
+2024-12-09 16:33:46,580 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 16:33:46,588 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 16:33:46,593 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 16:34:58,885 - classifier - INFO - welcome tinashe
+2024-12-09 16:35:08,849 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 16:35:08,854 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 16:35:08,860 - classifier - INFO - created a directory at: artifacts
+2024-12-09 16:35:08,864 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 16:35:08,879 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 16:35:08,883 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 22:21:54,004 - classifier - INFO - welcome tinashe
+2024-12-09 22:22:20,944 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 22:22:20,973 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 22:22:20,991 - classifier - INFO - created a directory at: artifacts
+2024-12-09 22:22:21,004 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 22:22:21,011 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 22:22:21,014 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 22:25:04,151 - classifier - INFO - welcome tinashe
+2024-12-09 22:25:42,262 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 22:25:42,298 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 22:25:42,299 - classifier - INFO - created a directory at: artifacts
+2024-12-09 22:25:42,320 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 22:25:42,327 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 22:25:42,347 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 22:28:48,784 - classifier - INFO - welcome tinashe
+2024-12-09 22:29:36,391 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 22:29:36,434 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 22:29:36,439 - classifier - INFO - created a directory at: artifacts
+2024-12-09 22:29:36,443 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 22:29:36,447 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 22:29:36,449 - classifier - INFO - created a directory at: artifacts/training
+2024-12-09 22:31:43,800 - classifier - INFO - welcome tinashe
+2024-12-09 22:32:25,367 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-09 22:32:25,469 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-09 22:32:25,474 - classifier - INFO - created a directory at: artifacts
+2024-12-09 22:32:25,501 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-09 22:32:25,504 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-09 22:32:25,506 - classifier - INFO - created a directory at: artifacts/training
