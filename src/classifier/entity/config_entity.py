@@ -28,3 +28,16 @@ class PrepareCallbacksConfig:
     root_dir: Path
     tensorboard_root_log_dir: Path
     checkpoint_model_filepath: Path
+
+#initialising training entity
+@dataclass(frozen=True)
+class TrainingConfig:
+    root_dir: Path
+    trained_model_path: Path
+    updated_base_model_path: Path
+    training_data: Path
+    parameter_epochs: int
+    parameter_batch_size: int
+    parameter_is_augmentation: bool
+    parameter_image_size: list
+

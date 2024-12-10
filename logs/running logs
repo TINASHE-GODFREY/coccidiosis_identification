@@ -523,3 +523,194 @@ Source-Age: 1
 2024-12-10 11:14:17,770 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
 2024-12-10 11:14:17,773 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
 2024-12-10 11:14:17,779 - classifier - INFO - created a directory at: artifacts/training
+2024-12-10 13:01:08,925 - classifier - INFO - welcome tinashe
+2024-12-10 13:01:23,319 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-12-10 13:01:23,324 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 13:01:23,327 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 13:01:23,330 - classifier - INFO - created a directory at: artifacts
+2024-12-10 13:01:23,332 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-12-10 13:10:35,023 - classifier - INFO - welcome tinashe
+2024-12-10 13:10:43,929 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-12-10 13:10:43,933 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 13:10:43,935 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 13:10:43,938 - classifier - INFO - created a directory at: artifacts
+2024-12-10 13:10:43,940 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-12-10 13:10:48,506 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 2E9B:EB576:BB65E:D7068:6757EE4F
+Accept-Ranges: bytes
+Date: Tue, 10 Dec 2024 07:40:45 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4721-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1733816445.162015,VS0,VE272
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2cc5dc0d5e52d39c25843ddcc4a3ab703217ff37
+Expires: Tue, 10 Dec 2024 07:45:45 GMT
+Source-Age: 0
+
+
+2024-12-10 13:10:48,926 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
+
+ x======x 
+2024-12-10 13:10:48,926 - classifier - INFO - >>>>stage Pepare base model   started<<<<
+2024-12-10 13:10:48,932 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 13:10:48,934 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 13:10:48,936 - classifier - INFO - created a directory at: artifacts
+2024-12-10 13:10:48,937 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-12-10 13:10:51,092 - classifier - INFO - >>>> stage Pepare base model  completed <<<< 
+
+ x======x 
+2024-12-10 13:10:51,093 - classifier - INFO - >>>>stage Training  started<<<<
+2024-12-10 13:10:51,096 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 13:10:51,099 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 13:10:51,102 - classifier - INFO - created a directory at: artifacts
+2024-12-10 13:10:51,104 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-10 13:10:51,104 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-10 13:10:51,104 - classifier - ERROR - 'ConfigurationManager' object has no attribute 'parameter'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 46, in <module>
+    model_trainer.main()
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/src/classifier/pipeline/stage_03_training.py", line 18, in main
+    training_config= config.get_training_config()
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/src/classifier/config/configuration.py", line 78, in get_training_config
+    parameter= self.parameter
+               ^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'parameter'. Did you mean: 'parameters'?
+2024-12-10 13:18:37,826 - classifier - INFO - welcome tinashe
+2024-12-10 13:18:48,871 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-12-10 13:18:48,888 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 13:18:48,900 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 13:18:48,905 - classifier - INFO - created a directory at: artifacts
+2024-12-10 13:18:48,905 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-12-10 13:18:59,380 - classifier - ERROR - <urlopen error [Errno -3] Temporary failure in name resolution>
+Traceback (most recent call last):
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/urllib/request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/http/client.py", line 1336, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/http/client.py", line 1382, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/http/client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/http/client.py", line 1091, in _send_output
+    self.send(msg)
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/http/client.py", line 1035, in send
+    self.connect()
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/http/client.py", line 1470, in connect
+    super().connect()
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/http/client.py", line 1001, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/socket.py", line 829, in create_connection
+    for res in getaddrinfo(host, port, 0, SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/socket.py", line 964, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 15, in <module>
+    data_ingestion.main()
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/src/classifier/pipeline/stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/src/classifier/componets/data_ingestion.py", line 20, in download_file
+    filename, headers =request.urlretrieve(url=self.config.source_url, filename=self.config.local_datafiles)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/urllib/request.py", line 240, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+                            ^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/urllib/request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/urllib/request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/urllib/request.py", line 1392, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/urllib/request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno -3] Temporary failure in name resolution>
+2024-12-10 17:59:58,289 - classifier - INFO - welcome tinashe
+2024-12-10 18:00:07,816 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-12-10 18:00:07,820 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 18:00:07,822 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 18:00:07,823 - classifier - INFO - created a directory at: artifacts
+2024-12-10 18:00:07,824 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-12-10 18:00:21,042 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5296:F246A:12D77D:1577EA:67583450
+Accept-Ranges: bytes
+Date: Tue, 10 Dec 2024 12:30:10 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4748-BOM
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1733833809.115502,VS0,VE990
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7cc630d5fed2c4d433d95341286214d22516fbee
+Expires: Tue, 10 Dec 2024 12:35:10 GMT
+Source-Age: 1
+
+
+2024-12-10 18:00:21,744 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
+
+ x======x 
+2024-12-10 18:00:21,745 - classifier - INFO - >>>>stage Pepare base model   started<<<<
+2024-12-10 18:00:21,750 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 18:00:21,755 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 18:00:21,756 - classifier - INFO - created a directory at: artifacts
+2024-12-10 18:00:21,757 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-12-10 18:00:25,920 - classifier - INFO - >>>> stage Pepare base model  completed <<<< 
+
+ x======x 
+2024-12-10 18:00:25,922 - classifier - INFO - >>>>stage Training  started<<<<
+2024-12-10 18:00:25,926 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 18:00:25,929 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 18:00:25,929 - classifier - INFO - created a directory at: artifacts
+2024-12-10 18:00:25,930 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-10 18:00:25,930 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-10 18:00:25,933 - classifier - INFO - created a directory at: artifacts/training
+2024-12-10 18:09:37,737 - classifier - INFO - >>>> stage Training completed <<<< 
+
+ x======x 
+2024-12-10 18:09:37,744 - classifier - INFO - >>>>stage Training  started<<<<
+2024-12-10 18:09:37,758 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-10 18:09:37,764 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-10 18:09:37,766 - classifier - INFO - created a directory at: artifacts
+2024-12-10 18:09:37,767 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-12-10 18:09:40,453 - classifier - INFO - >>>> stage Training completed <<<< 
+
+ x======x 
