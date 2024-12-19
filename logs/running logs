@@ -714,3 +714,254 @@ Source-Age: 1
 2024-12-10 18:09:40,453 - classifier - INFO - >>>> stage Training completed <<<< 
 
  x======x 
+2024-12-19 12:19:26,091 - classifier - INFO - welcome tinashe
+2024-12-19 13:24:54,912 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:24:54,950 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:24:54,957 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:27:34,252 - classifier - INFO - welcome tinashe
+2024-12-19 13:27:34,651 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:27:34,663 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:27:34,677 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:29:57,160 - classifier - INFO - welcome tinashe
+2024-12-19 13:29:57,452 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:29:57,466 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:29:57,476 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:35:59,413 - classifier - INFO - welcome tinashe
+2024-12-19 13:35:59,928 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:35:59,937 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:35:59,950 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:43:04,985 - classifier - INFO - welcome tinashe
+2024-12-19 13:43:05,390 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:43:05,414 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:43:05,429 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:44:05,290 - classifier - INFO - welcome tinashe
+2024-12-19 13:44:05,655 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:44:05,668 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:44:05,677 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:50:55,559 - classifier - INFO - welcome tinashe
+2024-12-19 13:50:56,049 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:50:56,066 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:50:56,071 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:53:05,204 - classifier - INFO - welcome tinashe
+2024-12-19 13:53:05,471 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:53:05,475 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:53:05,478 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:57:05,879 - classifier - INFO - welcome tinashe
+2024-12-19 13:57:06,322 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:57:06,336 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:57:06,341 - classifier - INFO - created a directory at: artifacts
+2024-12-19 13:59:36,356 - classifier - INFO - welcome tinashe
+2024-12-19 13:59:36,642 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 13:59:36,648 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 13:59:36,653 - classifier - INFO - created a directory at: artifacts
+2024-12-19 14:03:05,016 - classifier - INFO - welcome tinashe
+2024-12-19 14:03:05,519 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 14:03:05,530 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 14:03:05,539 - classifier - INFO - created a directory at: artifacts
+2024-12-19 14:05:57,841 - classifier - INFO - welcome tinashe
+2024-12-19 14:05:58,309 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 14:05:58,341 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 14:05:58,359 - classifier - INFO - created a directory at: artifacts
+2024-12-19 14:10:33,348 - classifier - INFO -  json file saved at:scores.json
+2024-12-19 14:54:08,488 - classifier - INFO - welcome tinashe
+2024-12-19 14:54:19,742 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-12-19 14:54:19,747 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 14:54:19,750 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 14:54:19,751 - classifier - INFO - created a directory at: artifacts
+2024-12-19 14:54:19,752 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-12-19 14:58:36,620 - classifier - INFO - welcome tinashe
+2024-12-19 14:58:44,315 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-12-19 14:58:44,319 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 14:58:44,321 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 14:58:44,322 - classifier - INFO - created a directory at: artifacts
+2024-12-19 14:58:44,322 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-12-19 15:07:15,380 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1143:18C6C7:F89D2:13E5D8:6763E645
+Accept-Ranges: bytes
+Date: Thu, 19 Dec 2024 09:28:47 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4745-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1734600527.013706,VS0,VE2
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 76baafdea652d9f0d84e392daa2c3d15517a392f
+Expires: Thu, 19 Dec 2024 09:33:47 GMT
+Source-Age: 265
+
+
+2024-12-19 15:07:15,623 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
+
+ x======x 
+2024-12-19 15:07:15,624 - classifier - INFO - >>>>stage Pepare base model   started<<<<
+2024-12-19 15:07:15,627 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 15:07:15,633 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 15:07:15,634 - classifier - INFO - created a directory at: artifacts
+2024-12-19 15:07:15,635 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-12-19 15:07:17,874 - classifier - INFO - >>>> stage Pepare base model  completed <<<< 
+
+ x======x 
+2024-12-19 15:07:17,874 - classifier - INFO - >>>>stage Training  started<<<<
+2024-12-19 15:07:17,878 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 15:07:17,880 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 15:07:17,884 - classifier - INFO - created a directory at: artifacts
+2024-12-19 15:07:17,886 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-19 15:07:17,886 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-19 15:07:17,887 - classifier - INFO - created a directory at: artifacts/training
+2024-12-19 15:16:08,870 - classifier - INFO - >>>> stage Training completed <<<< 
+
+ x======x 
+2024-12-19 15:16:08,874 - classifier - INFO - >>>>stage EVALUATION STAGE  started<<<<
+2024-12-19 15:16:08,878 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 15:16:08,881 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 15:16:08,882 - classifier - INFO - created a directory at: artifacts
+2024-12-19 15:16:08,882 - classifier - ERROR - 'ConfigurationManager' object has no attribute 'parameter'
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 64, in <module>
+    model_evaluation.main()
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/src/classifier/pipeline/stage_04_evaluation.py", line 14, in main
+    val_config= config.get_validation_config()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/src/classifier/config/configuration.py", line 102, in get_validation_config
+    all_parameters= self.parameter,
+                    ^^^^^^^^^^^^^^
+AttributeError: 'ConfigurationManager' object has no attribute 'parameter'. Did you mean: 'parameters'?
+2024-12-19 15:34:53,615 - classifier - INFO - welcome tinashe
+2024-12-19 15:35:01,495 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-12-19 15:35:01,498 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 15:35:01,501 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 15:35:01,502 - classifier - INFO - created a directory at: artifacts
+2024-12-19 15:35:01,502 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-12-19 15:38:12,205 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1143:18C6C7:F89D2:13E5D8:6763E645
+Accept-Ranges: bytes
+Date: Thu, 19 Dec 2024 10:05:03 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4727-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1734602703.012567,VS0,VE356
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7a96ebf7506642c47fc7ca195e6c03582fbb035e
+Expires: Thu, 19 Dec 2024 10:10:03 GMT
+Source-Age: 0
+
+
+2024-12-19 15:38:12,410 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
+
+ x======x 
+2024-12-19 15:38:12,410 - classifier - INFO - >>>>stage Pepare base model   started<<<<
+2024-12-19 15:38:12,413 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 15:38:12,414 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 15:38:12,415 - classifier - INFO - created a directory at: artifacts
+2024-12-19 15:38:12,415 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-12-19 15:38:15,268 - classifier - INFO - >>>> stage Pepare base model  completed <<<< 
+
+ x======x 
+2024-12-19 15:38:15,268 - classifier - INFO - >>>>stage Training  started<<<<
+2024-12-19 15:38:15,271 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 15:38:15,273 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 15:38:15,273 - classifier - INFO - created a directory at: artifacts
+2024-12-19 15:38:15,273 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-19 15:38:15,274 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-19 15:38:15,275 - classifier - INFO - created a directory at: artifacts/training
+2024-12-19 15:47:19,463 - classifier - INFO - >>>> stage Training completed <<<< 
+
+ x======x 
+2024-12-19 15:47:19,465 - classifier - INFO - >>>>stage EVALUATION STAGE  started<<<<
+2024-12-19 15:47:19,469 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 15:47:19,471 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 15:47:19,471 - classifier - INFO - created a directory at: artifacts
+2024-12-19 15:47:19,976 - classifier - ERROR - name 'model' is not defined
+Traceback (most recent call last):
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/main.py", line 64, in <module>
+    model_evaluation.main()
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/src/classifier/pipeline/stage_04_evaluation.py", line 16, in main
+    evaluation.evaluation()
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/src/classifier/componets/evaulation.py", line 49, in evaluation
+    self.score= model.evaluate(self._valid_generator)
+                ^^^^^
+NameError: name 'model' is not defined. Did you mean: 'self.model'?
+2024-12-19 15:57:23,914 - classifier - INFO - welcome tinashe
+2024-12-19 15:57:32,791 - classifier - INFO - >>>>stage Data Ingestion Stage  started<<<<
+2024-12-19 15:57:32,799 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 15:57:32,803 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 15:57:32,804 - classifier - INFO - created a directory at: artifacts
+2024-12-19 15:57:32,804 - classifier - INFO - created a directory at: artifacts/data_ingestion
+2024-12-19 16:01:57,403 - classifier - INFO - artifacts/data_ingestion/data.zip download!! with the following info Connection: close
+Content-Length: 11631271
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "e28947986329a0ca3e3edfcc802fd6ce7d40446a490363d77e5403d5c1d532e3"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 1143:18C6C7:F89D2:13E5D8:6763E645
+Accept-Ranges: bytes
+Date: Thu, 19 Dec 2024 10:27:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-bom4734-BOM
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1734604056.582141,VS0,VE419
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 252765c5329408a62675c54167450cb3dd6b33a2
+Expires: Thu, 19 Dec 2024 10:32:36 GMT
+Source-Age: 0
+
+
+2024-12-19 16:01:57,712 - classifier - INFO - >>>> stage Data Ingestion Stage completed <<<< 
+
+ x======x 
+2024-12-19 16:01:57,712 - classifier - INFO - >>>>stage Pepare base model   started<<<<
+2024-12-19 16:01:57,715 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 16:01:57,718 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 16:01:57,718 - classifier - INFO - created a directory at: artifacts
+2024-12-19 16:01:57,719 - classifier - INFO - created a directory at: artifacts/prepare_base_model
+2024-12-19 16:02:01,285 - classifier - INFO - >>>> stage Pepare base model  completed <<<< 
+
+ x======x 
+2024-12-19 16:02:01,296 - classifier - INFO - >>>>stage Training  started<<<<
+2024-12-19 16:02:01,311 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 16:02:01,319 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 16:02:01,329 - classifier - INFO - created a directory at: artifacts
+2024-12-19 16:02:01,329 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/checkpoint_dir
+2024-12-19 16:02:01,329 - classifier - INFO - created a directory at: artifacts/prepare_callbacks/tensorboard_log_dir
+2024-12-19 16:02:01,330 - classifier - INFO - created a directory at: artifacts/training
+2024-12-19 16:11:27,560 - classifier - INFO - >>>> stage Training completed <<<< 
+
+ x======x 
+2024-12-19 16:11:27,560 - classifier - INFO - >>>>stage EVALUATION STAGE  started<<<<
+2024-12-19 16:11:27,564 - classifier - INFO - yaml file: config/config.yaml loaded succefully
+2024-12-19 16:11:27,570 - classifier - INFO - yaml file: parameters.yaml loaded succefully
+2024-12-19 16:11:27,571 - classifier - INFO - created a directory at: artifacts
+2024-12-19 16:14:50,799 - classifier - INFO -  json file saved at:scores.json
+2024-12-19 16:14:50,800 - classifier - INFO - >>>> stage EVALUATION STAGE completed <<<< 
+
+ x======x 

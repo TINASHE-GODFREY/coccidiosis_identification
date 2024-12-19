@@ -41,3 +41,16 @@ class TrainingConfig:
     parameter_is_augmentation: bool
     parameter_image_size: list
 
+
+# initialising model evaluation entity 
+@dataclass(frozen=True)
+class EvaluationConfig:
+    path_of_model: Path
+    training_data: Path
+    all_parameters: dict
+    parameters_image_size: list
+    parameters_batch_size: int
+
+
+
+    

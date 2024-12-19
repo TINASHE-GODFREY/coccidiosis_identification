@@ -2,6 +2,7 @@ from classifier import logger
 from classifier.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
 from classifier.pipeline.stage_02_prepare_base_model import PrepareBaseModelTrainingPipeline
 from classifier.pipeline.stage_03_training import ModelTrainingPipeline
+from classifier.pipeline.stage_04_evaluation import  EvaluationPipeline
 
 
 
@@ -36,8 +37,6 @@ except Exception as e:
 
 
 
-
-
 STAGE_NAME= "Training"
 
 try:
@@ -48,21 +47,29 @@ try:
 
 except Exception as e:
         logger.exception(e)
+  
+  
+  
+  
         raise e
 
 
 
 
+STAGE_NAME= "EVALUATION STAGE"
 
-
-
-if __name__== "__main__":
-    try:
+try:
         logger.info(f">>>>stage {STAGE_NAME}  started<<<<")
-        prepare_base_model=PrepareBaseModelTrainingPipeline()
-        prepare_base_model.main()
+        model_evaluation=EvaluationPipeline()
+        model_evaluation.main()
         logger.info(f">>>> stage {STAGE_NAME} completed <<<< \n\n x======x ")
 
-    except Exception as e:
+except Exception as e:
         logger.exception(e)
         raise e
+
+
+
+
+
+    

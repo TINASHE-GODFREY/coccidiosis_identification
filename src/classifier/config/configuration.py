@@ -1,10 +1,11 @@
 from classifier.constants import *
 import os;
+from pathlib import Path
 from classifier.utils.common_functions import *
 from classifier.entity.config_entity  import (DataIngestionConfig,
                                               PrepareBaseModelConfig,
                                                 PrepareCallbacksConfig,
-                                                TrainingConfig)
+                                                TrainingConfig, EvaluationConfig)
 
 
 class ConfigurationManager:
@@ -92,6 +93,23 @@ class ConfigurationManager:
        
         )
         return training_config
+    
+    # model evaluation configaration 
+    def get_validation_config(self)->EvaluationConfig:
+        eval_config=EvaluationConfig(
+            path_of_model= Path("artifacts/training/model.keras"),
+            training_data= Path("artifacts/data_ingestion/chicken_images"),
+            all_parameters= self.parameters,
+            parameters_image_size= self.parameters.IMAGE_SIZE,
+            parameters_batch_size= self.parameters.BATCH_SIZE
+            
+        )
+
+        return eval_config
+    
+
+
+
     
      
     
