@@ -1264,3 +1264,156 @@ Traceback (most recent call last):
     raise TemplateNotFound(template)
 jinja2.exceptions.TemplateNotFound: index.html
 2024-12-20 11:58:21,755 - werkzeug - INFO - 127.0.0.1 - - [20/Dec/2024 11:58:21] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-22 11:08:51,655 - classifier - INFO - welcome tinashe
+2024-12-22 11:09:13,883 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2024-12-22 11:09:13,884 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-22 11:09:49,102 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask_cors/decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/app.py", line 25, in home
+    return render_template("index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/jinja2/environment.py", line 1084, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/jinja2/environment.py", line 1013, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/jinja2/environment.py", line 972, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2024-12-22 11:09:49,152 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:09:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-22 11:09:49,965 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:09:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-22 11:19:18,575 - classifier - INFO - welcome tinashe
+2024-12-22 11:19:28,600 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2024-12-22 11:19:28,602 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-22 11:21:40,811 - app - ERROR - Exception on / [GET]
+Traceback (most recent call last):
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask_cors/decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/app.py", line 25, in home
+    return render_template("index.html")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/templating.py", line 149, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/jinja2/environment.py", line 1084, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/jinja2/environment.py", line 1013, in get_template
+    return self._load_template(name, globals)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/jinja2/environment.py", line 972, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/jinja2/loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/templating.py", line 65, in get_source
+    return self._get_source_fast(environment, template)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/templating.py", line 99, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: index.html
+2024-12-22 11:21:40,853 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:21:40] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-12-22 11:21:41,363 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:21:41] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-12-22 11:38:08,281 - classifier - INFO - welcome tinashe
+2024-12-22 11:38:15,723 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2024-12-22 11:38:15,724 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-22 11:38:25,818 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:38:25] "GET / HTTP/1.1" 200 -
+2024-12-22 11:39:25,039 - app - ERROR - Exception on /predict [POST]
+Traceback (most recent call last):
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask_cors/extension.py", line 194, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask/app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/.conda/envs/chicken_tools/lib/python3.12/site-packages/flask_cors/decorator.py", line 130, in wrapped_function
+    resp = make_response(f(*args, **kwargs))
+                         ^^^^^^^^^^^^^^^^^^
+  File "/home/tinashe/codes/chicken2/coccidiosis_identification/app.py", line 42, in predictRoute
+    results= clApp.classifer.predict()
+             ^^^^^^^^^^^^^^^
+AttributeError: 'ClientApp' object has no attribute 'classifer'. Did you mean: 'classifier'?
+2024-12-22 11:39:25,047 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:39:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-12-22 11:49:10,694 - classifier - INFO - welcome tinashe
+2024-12-22 11:49:18,246 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2024-12-22 11:49:18,249 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-22 11:49:39,354 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:49:39] "GET / HTTP/1.1" 200 -
+2024-12-22 11:51:49,320 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:51:49] "GET / HTTP/1.1" 200 -
+2024-12-22 11:52:03,902 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:52:03] "GET / HTTP/1.1" 200 -
+2024-12-22 11:52:05,067 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:52:05] "GET / HTTP/1.1" 200 -
+2024-12-22 11:53:26,102 - classifier - INFO - welcome tinashe
+2024-12-22 11:53:32,623 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.0.101:8080
+2024-12-22 11:53:32,624 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2024-12-22 11:53:38,318 - werkzeug - INFO - 127.0.0.1 - - [22/Dec/2024 11:53:38] "GET / HTTP/1.1" 200 -
